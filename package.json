@@ -1,0 +1,14 @@
+{
+  "name": "webjump-automacao",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes em Cypress para a vaga de Analista de Testes de Software (QA) na Webjump",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
